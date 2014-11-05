@@ -1,7 +1,18 @@
 BeautifulApacheDirectoryList
 ============================
 
-美化apache默认的文件索引列表
+#美化apache默认的文件索引列表
+
+该项目对apache directory list 页面做了如下修改
+
+```
+ 1. 替换文件类型icon
+ 2. table列表样式美化
+ 3. table数据的筛选
+ 4. 高亮选中项
+ 5. 方便查看长文件名以及中文文件名
+ 6. 添加文件类型描述
+```
 
 ![](img/screenshot.png)
 
