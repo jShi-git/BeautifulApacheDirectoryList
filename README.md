@@ -12,7 +12,7 @@ BeautifulApacheDirectoryList
 * 方便查看长文件名以及中文文件名
 * 添加文件类型描述
 
-[![](img/screenshot.png)](img/screenshot.png)
+[![](img/screenshot.png)](https://raw.githubusercontent.com/jShi-git/BeautifulApacheDirectoryList/master/img/screenshot.png)
 
 ###1. 下载
 
